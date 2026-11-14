@@ -1,0 +1,40 @@
+{
+ "key": "noordholland",
+ "brand": "Lachgas Noord-Holland",
+ "host": "lachgasnoordholland.nl",
+ "site": "https://lachgasnoordholland.nl",
+ "word": "Noord-Holland",
+ "wa": "31684626182",
+ "mail": "info@lachgasnoordholland.nl",
+ "keyword": "lachgas noord-holland",
+ "alt_names": [
+  "lachgasnoordholland.nl",
+  "Lachgas Noord Holland"
+ ],
+ "home_title": "Lachgas Noord-Holland | Bestellen, bezorgd via WhatsApp",
+ "html_lang": "nl",
+ "hl": "nl",
+ "lang": "nl-NL",
+ "locale": "nl_NL",
+ "country": "NL",
+ "payment": "Contant, Tikkie",
+ "same_as": [],
+ "extra_service": [],
+ "family": "prov",
+ "domain": "https://lachgasnoordholland.nl",
+ "area_dirs": [
+  "lachgas-bezorgen"
+ ],
+ "city": null,
+ "region": "Noord-Holland",
+ "region_long": "heel Noord-Holland",
+ "geo_region": "NL-NH",
+ "place": "Noord-Holland",
+ "geo": null,
+ "theme": "#1c1917",
+ "accent": "#0d5c91",
+ "og": "/assets/og-lachgas-noord-holland.png",
+ "logo": "/assets/icon-512.png",
+ "apple": "/assets/apple-touch-icon.png",
+ "og_alt": "Lachgas Noord-Holland: lachgas bestellen in heel Noord-Holland, bezorgd via WhatsApp"
+}
